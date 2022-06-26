@@ -1,0 +1,49 @@
+Predavanje 1:
+	
+Uvod: 
+
+Contents:
+	- Design tab & Forma
+	- TextBox (tools)
+	- Objekat
+	- Properties
+	- Source file
+	- Namespace
+	- Public partial class
+	- Public MainForm()
+	- InitializeComponent()
+	- Literal string u textBox.Text
+	- Varijabla (String & message)
+	- Tipovi podataka
+	- Deklaracija & inicijalizacija (reinicijalizacija)
+	- TextBox.Text(printanje vrijednosti varijable na ekran)
+
+Zadatak:
+	1. Napisite program koji ispisuje vase ime i prezime u dva razlicita tekst boksa koji su nazvani imeTextBox i prezimeTextBox.
+
+	- Button
+	- Metode & events (on click)...
+
+Zadatak:
+	2. Pritiskom na Button proizvoljnog imena trebate prikazati svoje ime i prezime u TextBox-u proizvoljnog imena. 
+	
+	- Matematicke operacije & logicke operacije.
+
+Zadatak:
+	3. Potrebno je napraviti dva tekst boksa, dati im imena, i upisati po jedan proizvoljan cijeli broj u njih. 
+	Nakon toga napraviti treći TextBox te upisati u njega sumu brojeva iz prvog i drugog TextBox-a. 
+	
+	- Konverzija tipova podataka (ConvertTo & Parse metode) 
+		
+Zadatak: 
+
+	4. Potrebno je napraviti dva tekst boksa, dati im imena, i upisati po jedan proizvoljan cijeli broj u njih. Napraviti 5 Buttona,
+	tako da svaki od njih predstavlja jednu matematicku operaciju (*, /, +, - i %). Pritiskom na neko dugme, potrebno je izvršiti
+	tu matematičku operaciju nad brojevima iz prva dva tekst boksa, te rezultat predstaviti u novi, treći TekstBox. 
+	
+	- If, if else i else.
+	- Switch 
+	
+	4.1. Refaktorisati program tako da daje iste rezultate upotrebom switcha.
+	
+	

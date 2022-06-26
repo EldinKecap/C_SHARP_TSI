@@ -1,0 +1,7 @@
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\buttonHelloWorld\buttonHelloWorld\buttonHelloWorld\bin\Debug\buttonHelloWorld.exe
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\buttonHelloWorld\buttonHelloWorld\buttonHelloWorld\bin\Debug\buttonHelloWorld.pdb
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\buttonHelloWorld\buttonHelloWorld\buttonHelloWorld\obj\Debug\buttonHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\buttonHelloWorld\buttonHelloWorld\buttonHelloWorld\obj\Debug\buttonHelloWorld.MainForm.resources
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\buttonHelloWorld\buttonHelloWorld\buttonHelloWorld\obj\Debug\buttonHelloWorld.csproj.GenerateResource.Cache
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\buttonHelloWorld\buttonHelloWorld\buttonHelloWorld\obj\Debug\buttonHelloWorld.exe
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\buttonHelloWorld\buttonHelloWorld\buttonHelloWorld\obj\Debug\buttonHelloWorld.pdb

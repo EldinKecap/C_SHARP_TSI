@@ -1,0 +1,7 @@
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\helloWorld\helloWorld\obj\Debug\helloWorld.MainForm.resources
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.GenerateResource.Cache
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\Boris\Desktop\C#_TSI\Zadaci\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
