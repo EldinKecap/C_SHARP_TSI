@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\C#_TSI\Zadaci\ifElseOperators\ifElseOperators\obj\Debug\ifElseOperators.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\ifElseOperators\ifElseOperators\obj\Debug\ifElseOperators.MainForm.resources
+C:\Users\John\Desktop\C#_TSI\Zadaci\ifElseOperators\ifElseOperators\obj\Debug\ifElseOperators.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\ifElseOperators\ifElseOperators\bin\Debug\ifElseOperators.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\ifElseOperators\ifElseOperators\bin\Debug\ifElseOperators.pdb
+C:\Users\John\Desktop\C#_TSI\Zadaci\ifElseOperators\ifElseOperators\obj\Debug\ifElseOperators.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\ifElseOperators\ifElseOperators\obj\Debug\ifElseOperators.pdb

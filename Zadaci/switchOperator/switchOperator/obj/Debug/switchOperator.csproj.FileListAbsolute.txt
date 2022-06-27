@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\C#_TSI\Zadaci\switchOperator\switchOperator\bin\Debug\switchOperator.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\switchOperator\switchOperator\bin\Debug\switchOperator.pdb
+C:\Users\John\Desktop\C#_TSI\Zadaci\switchOperator\switchOperator\obj\Debug\switchOperator.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\switchOperator\switchOperator\obj\Debug\switchOperator.MainForm.resources
+C:\Users\John\Desktop\C#_TSI\Zadaci\switchOperator\switchOperator\obj\Debug\switchOperator.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\switchOperator\switchOperator\obj\Debug\switchOperator.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\switchOperator\switchOperator\obj\Debug\switchOperator.pdb

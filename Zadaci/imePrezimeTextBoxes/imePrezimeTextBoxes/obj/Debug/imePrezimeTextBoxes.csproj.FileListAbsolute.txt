@@ -1,0 +1,21 @@
+C:\Users\John\Documents\SharpDevelop Projects\imePrezimeTextBoxes\imePrezimeTextBoxes\bin\Debug\imePrezimeTextBoxes.exe
+C:\Users\John\Documents\SharpDevelop Projects\imePrezimeTextBoxes\imePrezimeTextBoxes\bin\Debug\imePrezimeTextBoxes.pdb
+C:\Users\John\Documents\SharpDevelop Projects\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\SharpDevelop Projects\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.MainForm.resources
+C:\Users\John\Documents\SharpDevelop Projects\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.csproj.GenerateResource.Cache
+C:\Users\John\Documents\SharpDevelop Projects\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.exe
+C:\Users\John\Documents\SharpDevelop Projects\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.pdb
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\bin\Debug\imePrezimeTextBoxes.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\bin\Debug\imePrezimeTextBoxes.pdb
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.MainForm.resources
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.pdb
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\bin\Debug\imePrezimeTextBoxes.exe
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\bin\Debug\imePrezimeTextBoxes.pdb
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.MainForm.resources
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.exe
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeTextBoxes\imePrezimeTextBoxes\obj\Debug\imePrezimeTextBoxes.pdb

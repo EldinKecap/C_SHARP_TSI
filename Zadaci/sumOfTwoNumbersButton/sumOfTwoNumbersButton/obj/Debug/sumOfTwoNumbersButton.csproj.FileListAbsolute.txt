@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.MainForm.resources
+C:\Users\John\Desktop\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\bin\Debug\sumOfTwoNumbersButton.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\bin\Debug\sumOfTwoNumbersButton.pdb
+C:\Users\John\Desktop\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.pdb
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\bin\Debug\sumOfTwoNumbersButton.exe
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\bin\Debug\sumOfTwoNumbersButton.pdb
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.MainForm.resources
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.exe
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\sumOfTwoNumbersButton\sumOfTwoNumbersButton\obj\Debug\sumOfTwoNumbersButton.pdb

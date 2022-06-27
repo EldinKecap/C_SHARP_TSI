@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.MainForm.resources
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\bin\Debug\imePrezimeButtonTextBox.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\bin\Debug\imePrezimeButtonTextBox.pdb
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.exe
+C:\Users\John\Desktop\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.pdb
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\bin\Debug\imePrezimeButtonTextBox.exe
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\bin\Debug\imePrezimeButtonTextBox.pdb
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.MainForm.resources
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.exe
+C:\Users\Korisnik\Desktop\BILD IT\C#_TSI\Zadaci\imePrezimeButtonTextBox\imePrezimeButtonTextBox\obj\Debug\imePrezimeButtonTextBox.pdb
