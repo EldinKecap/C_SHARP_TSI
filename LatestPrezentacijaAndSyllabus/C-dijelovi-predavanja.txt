@@ -1,0 +1,73 @@
+Predavanje 1:
+	
+Uvod: 
+
+Contents:
+	- Design tab & Forma 
+	- TextBox (tools)
+	- Objekat
+	- Properties
+	- Source file
+	- Namespace
+	- Public partial class
+	- Public MainForm()
+	- InitializeComponent()
+	- Literal string u textBox.Text
+	- Varijabla (String & message)
+	- Tipovi podataka
+	- Deklaracija & inicijalizacija (reinicijalizacija)
+	- TextBox.Text(printanje vrijednosti varijable na ekran)
+
+Zadatak:
+	1. LIVE CODE - FAHIRE NEMOJ DA TE SANJAMO
+	1.1. Napisite program koji ispisuje vase ime i prezime u dva razlicita tekst boksa koji su nazvani imeTextBox i prezimeTextBox.
+
+	- Button
+	- Metode & events (on click)...
+
+Zadatak:
+	2. LIVE CODE - FAHIRE NEMOJ DA TE SANJAMO
+	2.1. Pritiskom na Button proizvoljnog imena trebate prikazati svoje ime i prezime u TextBox-u proizvoljnog imena. 
+	
+	- Matematicke operacije & logicke operacije.
+
+Predavanje 2:
+
+Ponavljanje i operatori. 
+
+Zadatak:
+	Objasniti Convert.To.... i parse
+	3. PRIMJER
+	3.1. Potrebno je napraviti dva tekst boksa, dati im imena, i upisati po jedan proizvoljan cijeli broj u njih. 
+	Nakon toga napraviti treći TextBox te upisati u njega sumu brojeva iz prvog i drugog TextBox-a. 
+	
+	- Konverzija tipova podataka (ConvertTo & Parse metode) 
+
+
+Kontrole toka i funkcije:
+	-Primjeri iz stvarnog svijeta kontrole toka
+	-Primjeri u live kodu ifelse
+	-Zadatak ifelse	
+	-Dani u sedmici primjer
+	-Zadatak switch
+	-Funkcije primjer
+	-Funkcije zadatak		
+Zadatak: 
+	4.
+	4.1. Potrebno je napraviti dva tekst boksa, dati im imena, i upisati po jedan proizvoljan cijeli broj u njih. Napraviti 5 Buttona,
+	tako da svaki od njih predstavlja jednu matematicku operaciju (*, /, +, - i %). Pritiskom na neko dugme, potrebno je izvršiti
+	tu matematičku operaciju nad brojevima iz prva dva tekst boksa, te rezultat predstaviti u novi, treći TekstBox. 
+	
+	- If, if else i else.
+	- Switch 
+	
+	4.2. Refaktorisati program tako da daje iste rezultate upotrebom switcha.
+	4.1. Refaktorisati program tako da daje iste rezultate upotrebom if, else if i else. 
+
+Predavanje 3:
+	BULLET 	
+	redoslijed kako izgraditi aplikaciju
+Predavanje 4:
+	Improvizirati kalkulator
+	Dodati sender
+	
